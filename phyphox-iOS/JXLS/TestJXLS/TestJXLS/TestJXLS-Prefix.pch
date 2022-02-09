@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'TestJXLS' target in the 'TestJXLS' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#define __FRAMEWORK__
+#endif
