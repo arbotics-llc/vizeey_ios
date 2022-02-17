@@ -1,6 +1,6 @@
 # Vizeey
 
-Vizeey is a smartphone app that uses the sensors in a smartphone and also connects to external sensor devices for educational experimentation.  Vizeey is a modified version of Phyphox, a remarkable open source project developed by Dr. Sebastian Staacks at TWTH Aachen University.  Modifications to the IOS version of this application are primarily cosmetic and the original functionality remains the same.  The following iinformation is taken directly from the Phyphox Github information.
+Vizeey is an app that uses the sensors in a smartphone for physics experiments and is based on Phyphox, an open source project. Changes to the open source base of Phyphox include a customized branding scheme and the removal of default Phyphox experiments. Otherwise, the application is identical in function to the original Phyphox and adopts the same GNU General Public License.  You can find additional details and examples of Phyphox at https://phyphox.org.
 -----------------------------------------------------------------------------------------------------------
 
 phyphox-ios
